@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Kiwiciwi?style=flat&logo=reddit&logoColor=%23FF4500&logoSize=auto&labelColor=%23fefefe&color=%23FF4500&cacheSeconds=3600&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FKiwiciwi%2F)
+
+
 <!--
 **SCHOUTER/SCHOUTER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
